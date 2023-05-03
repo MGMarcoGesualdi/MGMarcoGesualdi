@@ -20,7 +20,7 @@
 ### :man_technologist: About Me :
 Io sono un Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> dell'Italia.
 - :telescope: Io sto lavorando come Software Engineer e contibuire alla costruzione di web applications frontend e backend.
-- :zap: Nel mio tempo libero mi piace appprendere sempre nuovi linguaggi di programmazione.
+- :zap: Nel mio tempo libero mi piace apprendere sempre nuovi linguaggi di programmazione.
 
 ---
 
