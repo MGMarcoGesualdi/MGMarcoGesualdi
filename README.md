@@ -18,8 +18,8 @@
 ---
     
 ### :man_technologist: About Me :
-Io sono un Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: Io sto lavorando come Software Engineer e contibuisco alla costruzione di web applications frontend e backend.
+Io sono un FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: Sto lavorando come Software Engineer e contibuisco alla costruzione di web applications frontend e backend.
 - :zap: Nel mio tempo libero mi piace apprendere sempre nuovi linguaggi di programmazione.
 
 ---
