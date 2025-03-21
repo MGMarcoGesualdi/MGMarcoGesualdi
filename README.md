@@ -37,13 +37,3 @@
   <img src="https://img.shields.io/badge/NoSQL-4C8FBD?style=flat&logo=npm&logoColor=white" alt="NoSQL">
 </p>
 
----
-
-<p align="center">
-  <strong>🌐 Contatti</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linkedin-blue.svg" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/Portfolio-darkgreen.svg" alt="Portfolio">
-</p>
